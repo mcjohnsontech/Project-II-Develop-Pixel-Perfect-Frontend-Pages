@@ -1,0 +1,1 @@
+This is a project that uses HTML and CSS to build a responsive pixel website that was given as a task.
